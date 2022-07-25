@@ -8,7 +8,7 @@
 2. Navigate to above folder via terminal
 3. Run command NPM INSTALL to install dependencies
 4. Run command NPM START to start server
-5. Send HTTP request to "/transaction_sync_ms" - the resulting response will be a .JSON file 
+5. Send HTTP GET request to "/transaction_sync_ms" - the resulting response will be a .JSON file 
 >
 
 
